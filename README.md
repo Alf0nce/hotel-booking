@@ -1,5 +1,7 @@
 ##Hotel Management System Database
+
 Overview
+
 This database schema is designed for a comprehensive hotel management system, tracking guests, bookings, rooms, payments, and additional services. The relational database supports all core operations of a hotel including reservations, room assignments, billing, and service management.
 
 Database Schema Description
